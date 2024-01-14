@@ -1,0 +1,8 @@
+----------
+Nombre: Juan
+Apellidos: Nadie
+NIF: 12345678a
+IBAN: ES12345678912345678911
+
+----------
+Número de cuentas existentes: 1
